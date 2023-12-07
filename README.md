@@ -1,7 +1,7 @@
 <div id="header" align="center">
-<img src="https://github.com/filbertbrit/memji.png" width="150" height="150">
+<img src="memji.png" width="120" height="150">
 
-  <h1>Hey, thanks for stopping by!</h1>
+  <h1>Hey there!</h1>
 
 <!--
 **FilbertBrit/FilbertBrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
