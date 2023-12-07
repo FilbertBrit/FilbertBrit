@@ -1,8 +1,5 @@
-<div align="center">
-<p align="center">
-</p>
-
-### Hi there 👋
+<div id="header" align="center">
+  <h1>Hey, thanks for stopping by!</h1>
 
 <!--
 **FilbertBrit/FilbertBrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
