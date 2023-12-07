@@ -1,4 +1,6 @@
 <div id="header" align="center">
+<img src="https://github.com/filbertbrit/memji.png" width="150" height="150">
+
   <h1>Hey, thanks for stopping by!</h1>
 
 <!--
