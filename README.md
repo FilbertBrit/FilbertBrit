@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ### About Me
 
-My name is Brittiny and I'm a Software Engineer who's splits thier time between San Diego ☀ and San Francisco 🌉
+My name is Brittiny and I'm a Software Engineer who splits her time between San Diego ☀ and San Francisco 🌉
 
  💻  I’m currently working on my full-stack web application clone of partiful.
 
